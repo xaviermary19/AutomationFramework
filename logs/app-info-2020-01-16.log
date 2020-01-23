@@ -1,0 +1,26 @@
+[INFO ] 2020-01-16 22:29:20.411 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-16 22:29:21.082 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-16 22:29:21.082 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:29:21.091 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:29:51.770 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-16 22:29:52.325 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-16 22:29:52.327 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:29:52.334 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:33:21.195 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-16 22:33:21.726 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-16 22:33:21.726 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:33:21.734 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:41:46.374 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-16 22:42:10.387 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-16 22:42:10.843 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-16 22:42:10.843 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:42:10.848 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 22:42:10.900 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-16 22:42:30.488 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-16 23:18:52.180 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-16 23:19:17.635 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-16 23:19:18.404 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-16 23:19:18.405 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 23:19:18.410 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-16 23:19:18.523 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-16 23:19:38.334 [main] WebDriverUtil - In get driver method -browser :chrome

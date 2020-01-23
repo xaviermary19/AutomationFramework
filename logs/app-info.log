@@ -1,0 +1,132 @@
+[INFO ] 2020-01-17 10:26:47.537 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:27:30.865 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:27:31.329 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:27:31.329 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:27:31.334 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:27:31.397 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:27:31.398 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:27:31.398 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:29:49.337 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:30:09.811 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:30:10.183 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:30:10.183 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:30:10.188 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:30:10.234 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:30:10.234 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:30:10.234 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:32:19.798 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:32:39.215 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:32:39.589 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:32:39.589 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:32:39.593 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:32:39.638 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:32:39.638 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:32:39.639 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:38:45.458 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:39:04.720 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:39:05.086 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:39:05.086 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:39:05.090 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:39:05.137 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:39:05.137 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:39:05.137 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:45:32.745 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:45:52.935 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:45:53.311 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:45:53.311 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:45:53.315 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:45:53.360 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:45:53.361 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:45:53.361 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:49:27.902 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:49:48.793 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:49:49.170 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:49:49.171 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:49:49.176 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:49:49.221 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:49:49.221 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:49:49.221 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:53:45.349 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 10:54:04.857 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:54:05.229 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:54:05.229 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:54:05.233 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:54:05.277 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 10:54:05.277 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:54:05.277 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 10:54:53.482 [main] WebDriverUtil - In get driver method -browser :browser
+[ERROR] 2020-01-17 10:54:53.524 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:54:53.524 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 10:54:53.539 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 10:54:53.944 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 10:54:53.944 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:54:53.949 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 10:54:54.032 [main] WebDriverUtil - In get driver method -browser :browser
+[ERROR] 2020-01-17 10:54:54.037 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 10:54:54.037 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:00:59.569 [main] WebDriverUtil - In get driver method -browser :browser
+[ERROR] 2020-01-17 11:00:59.608 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:00:59.608 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:00:59.622 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:01:00.044 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:01:00.045 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:01:00.052 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:01:00.133 [main] WebDriverUtil - In get driver method -browser :browser
+[ERROR] 2020-01-17 11:01:00.138 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:01:00.138 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:02:22.555 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:02:43.116 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:02:43.492 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:02:43.492 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:02:43.496 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:02:43.541 [main] WebDriverUtil - In get driver method -browser :null
+[ERROR] 2020-01-17 11:02:43.541 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:02:43.541 [main] WebDriverUtil - null
+[INFO ] 2020-01-17 11:03:59.816 [main] WebDriverUtil - In get driver method -browser :Chrome
+[ERROR] 2020-01-17 11:03:59.856 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:03:59.856 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:03:59.870 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:04:00.292 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:04:00.292 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:04:00.297 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:04:00.374 [main] WebDriverUtil - In get driver method -browser :Chrome
+[ERROR] 2020-01-17 11:04:00.379 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:04:00.379 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:06:19.813 [main] WebDriverUtil - In get driver method -browser :Chrome
+[ERROR] 2020-01-17 11:06:19.854 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:06:19.855 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:06:19.870 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:06:20.287 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:06:20.287 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:06:20.292 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:06:20.370 [main] WebDriverUtil - In get driver method -browser :Chrome
+[ERROR] 2020-01-17 11:06:20.375 [main] WebDriverUtil - There is an exception when creating webdriver object
+[ERROR] 2020-01-17 11:06:20.375 [main] WebDriverUtil - The driver executable does not exist: C:\Users\antoj\eclipse-workspace\AutomationFramework\resources\drivers\chromedriver.exe
+[INFO ] 2020-01-17 11:07:13.843 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:07:32.732 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:07:33.096 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:07:33.096 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:07:33.101 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:07:33.145 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:07:49.852 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:50:20.347 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:50:37.567 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:50:38.133 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:50:38.133 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:50:38.140 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:50:38.195 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:50:59.626 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:54:02.899 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:54:19.379 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 11:54:19.798 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 11:54:19.798 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:54:19.804 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 11:54:19.859 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 11:54:40.037 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 13:36:54.240 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 13:37:26.560 [main] ExcelHelper - In Excel reader util
+[INFO ] 2020-01-17 13:37:27.379 [main] ExcelHelper - total rows :2
+[INFO ] 2020-01-17 13:37:27.379 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 13:37:27.387 [main] ExcelHelper - total cols :2
+[INFO ] 2020-01-17 13:37:27.516 [main] WebDriverUtil - In get driver method -browser :chrome
+[INFO ] 2020-01-17 13:37:50.831 [main] WebDriverUtil - In get driver method -browser :chrome

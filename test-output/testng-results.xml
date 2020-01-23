@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77284" started-at="2020-01-17T21:36:54Z" finished-at="2020-01-17T21:38:11Z">
+    <groups>
+    </groups>
+    <test name="SmokeTest" duration-ms="77284" started-at="2020-01-17T21:36:54Z" finished-at="2020-01-17T21:38:11Z">
+      <class name="com.wbl.HomePageTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wbl.HomePageTest@6536e911]" name="beforeClass" is-config="true" duration-ms="13982" started-at="2020-01-17T21:37:27Z" finished-at="2020-01-17T21:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest(java.lang.String, java.lang.String)[pri:0, instance:com.wbl.HomePageTest@6536e911]" name="searchTest" duration-ms="8362" started-at="2020-01-17T21:37:41Z" data-provider="searchData" finished-at="2020-01-17T21:37:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Laptop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Laptop - Walmart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wbl.HomePageTest@6536e911]" name="afterClass" is-config="true" duration-ms="969" started-at="2020-01-17T21:37:49Z" finished-at="2020-01-17T21:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wbl.HomePageTest@6536e911]" name="beforeClass" is-config="true" duration-ms="14535" started-at="2020-01-17T21:37:50Z" finished-at="2020-01-17T21:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest(java.lang.String, java.lang.String)[pri:0, instance:com.wbl.HomePageTest@6536e911]" name="searchTest" duration-ms="5166" started-at="2020-01-17T21:38:05Z" data-provider="searchData" finished-at="2020-01-17T21:38:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Books - Walmart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wbl.HomePageTest@6536e911]" name="afterClass" is-config="true" duration-ms="950" started-at="2020-01-17T21:38:10Z" finished-at="2020-01-17T21:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.wbl.HomePageTest -->
+      <class name="com.wbl.SearchResultsPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.wbl.SearchResultsPageTest@6b09bb57]" name="beforeSuite" is-config="true" duration-ms="672" started-at="2020-01-17T21:36:53Z" finished-at="2020-01-17T21:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.wbl.SearchResultsPageTest@6b09bb57]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-01-17T21:36:54Z" finished-at="2020-01-17T21:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.wbl.SearchResultsPageTest@6b09bb57]" name="beforeClass" is-config="true" duration-ms="21939" started-at="2020-01-17T21:36:54Z" finished-at="2020-01-17T21:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="maxPriceSortTest()[pri:0, instance:com.wbl.SearchResultsPageTest@6b09bb57]" name="maxPriceSortTest" duration-ms="9428" started-at="2020-01-17T21:37:16Z" finished-at="2020-01-17T21:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxPriceSortTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.wbl.SearchResultsPageTest@6b09bb57]" name="afterClass" is-config="true" duration-ms="954" started-at="2020-01-17T21:37:25Z" finished-at="2020-01-17T21:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.wbl.SearchResultsPageTest -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
